@@ -12,3 +12,4 @@
 - Paris, France
 - Bangkok, Thailand
 
+![]images/LakeDistrict.JPEG
