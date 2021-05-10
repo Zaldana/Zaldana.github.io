@@ -1,10 +1,10 @@
 # Ruben Zaldana
-## My Top 5 Favorite Places
+## My Top 10 Favorite Places
 
 - Diamond Beach, Iceland
 - Kirkjufell, Iceland
 - Bali, Indonesia
-- Lake District, England
+- **Lake District, England**
 - Peak District, England
 - Amsterdam, Netherlands  
 - Yosemite, USA
@@ -12,4 +12,4 @@
 - Paris, France
 - Bangkok, Thailand
 
-![]images/LakeDistrict.JPEG
+![lake district image](https://raw.githubusercontent.com/Zaldana/Zaldana.github.io/main/LakeDistrict.JPEG)
