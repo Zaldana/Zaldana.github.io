@@ -1,0 +1,38 @@
+html {
+    background-image: url(background.jpg);
+    background-size: cover;
+}
+
+.header {
+    color: white;
+    margin-left: 100px;
+    margin-top: 60px;
+    margin-bottom: 0px;
+    font-family: 'Helvetica';
+}
+
+.container {
+    border: solid rgba(255, 255, 255, 0.76) 2px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.76);
+    margin-top: 0px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 120px;
+    display: flex;
+    padding: 25px 20px 25px 30px;
+    box-shadow: 2px 2px 5px gray;
+}
+
+.list {
+    text-align: left;
+    font-family: 'Helvetica';
+    font-size: 14px;
+}
+
+.image {
+    max-width: 100%;
+    box-shadow: 2px 2px 5px gray;
+    border: solid rgba(255, 255, 255, 0.76) 5px;
+    border-radius: 5px;
+}
