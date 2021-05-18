@@ -1,5 +1,5 @@
 # Ruben Zaldana
-## My Top 10 Favorite Places
+## My Top 9 Favorite Places
 
 - Diamond Beach, Iceland
 - Kirkjufell, Iceland
@@ -10,6 +10,6 @@
 - Yosemite, USA
 - Pisa, Italy
 - Paris, France
-- Bangkok, Thailand
+
 
 ![lake district image](https://raw.githubusercontent.com/Zaldana/Zaldana.github.io/main/LakeDistrict.JPEG)
