@@ -2,6 +2,7 @@
 ## My Top 9 Favorite Places
 
 - Diamond Beach, Iceland
+- Diamond Beach, Iceland
 - Kirkjufell, Iceland
 - Bali, Indonesia
 - **Lake District, England**
