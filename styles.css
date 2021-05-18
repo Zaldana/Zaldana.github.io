@@ -3,8 +3,8 @@ html {
     background-size: cover;
 }
 
-.header {
-    color: white;
+.h2 .h3 {
+    color: rgba(1, 0, 7, 0.884);
     margin-left: 100px;
     margin-top: 60px;
     margin-bottom: 0px;
@@ -24,17 +24,33 @@ html {
     box-shadow: 2px 2px 5px gray;
 }
 
-.left-column {
-    width: 800px; 
- }
-
-.list {
+.right-column {
     text-align: left;
     font-family: 'Helvetica';
-    font-size: 14px;
+    font-size: 20px;
+    margin-left: 40px;
 }
 
-.image {
+.list {
+    margin-left: 10px;
+    text-align: left;
+    font-family: 'Helvetica';
+    font-size: 20px;
+}
+
+.left-column {
+   width: 800px; 
+}
+
+.image-1 {
+    max-width: 100%;
+    box-shadow: 2px 2px 5px gray;
+    border: solid rgba(255, 255, 255, 0.76) 5px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.image-2 {
     max-width: 100%;
     box-shadow: 2px 2px 5px gray;
     border: solid rgba(255, 255, 255, 0.76) 5px;
