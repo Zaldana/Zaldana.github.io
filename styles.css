@@ -24,6 +24,10 @@ html {
     box-shadow: 2px 2px 5px gray;
 }
 
+.left-column {
+    width: 800px; 
+ }
+
 .list {
     text-align: left;
     font-family: 'Helvetica';
